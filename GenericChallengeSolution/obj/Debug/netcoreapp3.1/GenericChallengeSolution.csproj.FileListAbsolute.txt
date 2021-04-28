@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\bin\Debug\netcoreapp3.1\GenericChallengeSolution.exe
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\bin\Debug\netcoreapp3.1\GenericChallengeSolution.deps.json
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\bin\Debug\netcoreapp3.1\GenericChallengeSolution.runtimeconfig.json
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\bin\Debug\netcoreapp3.1\GenericChallengeSolution.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\bin\Debug\netcoreapp3.1\GenericChallengeSolution.dll
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\bin\Debug\netcoreapp3.1\GenericChallengeSolution.pdb
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\obj\Debug\netcoreapp3.1\GenericChallengeSolution.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\obj\Debug\netcoreapp3.1\GenericChallengeSolution.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\obj\Debug\netcoreapp3.1\GenericChallengeSolution.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\obj\Debug\netcoreapp3.1\GenericChallengeSolution.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\obj\Debug\netcoreapp3.1\GenericChallengeSolution.dll
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\obj\Debug\netcoreapp3.1\GenericChallengeSolution.pdb
+C:\Users\Yasmin\source\repos\GenericChallengeSolution\GenericChallengeSolution\obj\Debug\netcoreapp3.1\GenericChallengeSolution.genruntimeconfig.cache
